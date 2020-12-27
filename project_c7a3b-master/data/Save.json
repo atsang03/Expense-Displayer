@@ -1,0 +1,28 @@
+{
+   "categories": [
+      {
+         "name": "Miscellaneous",
+         "id": 0
+      },
+      {
+         "name": "awekfn",
+         "id": 2
+      }
+   ],
+   "expenses": [
+      {
+         "amount": 123,
+         "month": 12,
+         "category name": "awekfn",
+         "name": "fejakn",
+         "category id": 2
+      },
+      {
+         "amount": 12,
+         "month": 2,
+         "category name": "Miscellaneous",
+         "name": "aweigna",
+         "category id": 0
+      }
+   ]
+}

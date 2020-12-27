@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Miscellaneous",
+      "id": 0
+    },
+    {
+      "name": "foods",
+      "id": 1
+    },
+    {
+      "name": "clothes",
+      "id": 2
+    }
+  ],
+  "expenses": [
+    {
+      "amount": 300,
+      "month": 1,
+      "category name": "clothes",
+      "name": "pants",
+      "category id": 2
+    },
+    {
+      "amount": 10,
+      "month": 12,
+      "category name": "foods",
+      "name": "apples",
+      "category id": 1
+    },
+    {
+      "amount": 130,
+      "month": 4,
+      "category name": "Miscellaneous",
+      "name": "courage",
+      "category id": 0
+    }
+  ]
+}

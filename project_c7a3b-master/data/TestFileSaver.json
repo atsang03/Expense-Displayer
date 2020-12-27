@@ -1,0 +1,46 @@
+{
+   "categories": [
+      {
+         "name": "Miscellaneous",
+         "id": 0
+      },
+      {
+         "name": "foods",
+         "id": 1
+      },
+      {
+         "name": "clothes",
+         "id": 2
+      }
+   ],
+   "expenses": [
+      {
+         "amount": 12,
+         "month": 1,
+         "category name": "foods",
+         "name": "apples",
+         "category id": 1
+      },
+      {
+         "amount": 20,
+         "month": 2,
+         "category name": "foods",
+         "name": "pears",
+         "category id": 1
+      },
+      {
+         "amount": 300,
+         "month": 12,
+         "category name": "clothes",
+         "name": "pants",
+         "category id": 2
+      },
+      {
+         "amount": 350,
+         "month": 11,
+         "category name": "clothes",
+         "name": "shirts",
+         "category id": 2
+      }
+   ]
+}
